@@ -88,7 +88,7 @@ work:
     company_url: http://www.npu-aslp.org/
     company_logo: ''
     date_start: 2022-06-20
-    date_end: 2022-7-31
+    date_end: 2022-07-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
