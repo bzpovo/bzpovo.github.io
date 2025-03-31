@@ -168,4 +168,4 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a Master student in NLPGM LAB @ WHU at the School of Computer Science, Wuhan University. I’m interested in LLM hallucination and recommendation system. I have previously conducted research in areas such as security red teaming for LLMs, edge-cloud collaborative intelligent video analysis, speech synthesis, and computer vision.
