@@ -43,7 +43,7 @@ education:
   - area: MEng Artificial Intelligence
     institution: Wuhan University
     date_start: 2024-07-01
-    date_end: Present
+    date_end: 2027-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Tieyun Qian](http://jszy.whu.edu.cn/qiantieyun/zh_CN/more/236169/jsjjgd/index.htm). 
     # button:
