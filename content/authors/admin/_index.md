@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/bzpovo
   - icon: brands/google-scholar
-    url: https://github.com/bzpovo
+    url: https://scholar.google.com/citations?user=umjzMBMAAAAJ&hl=zh-CN
   - icon: brands/orcid
     url: https://orcid.org/0009-0005-9618-918X
 
@@ -65,12 +65,8 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-      # GPA: 3.4/4.0
       Supervised by [Prof Hongping Gan](https://teacher.nwpu.edu.cn/2020050020.html). 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Research Intern
     company_name: Tsinghua Shenzhen International Graduate School - Peng Cheng Laboratory Smart Internet Group (SIG)
@@ -78,22 +74,22 @@ work:
     company_logo: ''
     date_start: 2022-10-01
     date_end: 2023-10-01
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research Intern
     company_name: Northwestern Polytechnical University Audio, Speech and Language Processing Group (ASLP)
     company_url: http://www.npu-aslp.org/
     company_logo: ''
     date_start: 2022-06-20
     date_end: 2022-07-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
