@@ -18,8 +18,8 @@ superuser: true
 
 # Role/position/tagline
 role: Master student of NLPGM LAB @ WHU
-role_link:
-  - url: https://nlpgm.github.io/
+# role_link:
+#   - url: https://nlpgm.github.io/
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
